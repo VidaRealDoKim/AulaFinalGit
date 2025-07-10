@@ -44,11 +44,12 @@ Mesmo com os erros, aprendemos muito com a prática:
 
 ## 👥 Equipe DartLab Sessions
 
-- David Luis Kim  
-- [Nome 2]  
-- [Nome 3]  
-- [Nome 4]  
-- [Nome 5]  
+- André Felipe I Leite
+- Daniel Vinhais Greenwood
+- David Luis Kim
+- Luiz Threis
+- João Eskelsen
+- Gustavo F
 
 ---
 
